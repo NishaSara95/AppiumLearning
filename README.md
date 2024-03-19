@@ -1,0 +1,1 @@
+This is the project created for Mobile Automation functions and gestures and other miscellaneous operations such as SWipe, drag drop, Rotation, Scroll,Handling Toast messages using a test ecommerce application 
